@@ -26,8 +26,7 @@ void make_func(double k,double b){
 int main(){
     int t=time(NULL);
 
-    cout<<"Linear Function Calculator(LFC)\nYou can give me two sets of positions, 
-    and I can tell you the linear function about them.\n";
+    cout<<"Linear Function Calculator(LFC)\nYou can give me two sets of positions, and I can tell you the linear function about them.\n";
     cout<<"Point 1(Input format: x,y):\n";
     cin>>x11>>ch>>y11;
     cout<<"\nPoint 2(Input format: x,y):\n";
